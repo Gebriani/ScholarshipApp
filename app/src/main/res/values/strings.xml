@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScholarshipApp</string>
+
+
+    <string name="title_personalize_interest">Personalize your Schoters homepage</string>
+    <string name="desc_personalize_interest">Pick 5 top scholarship categories that you are interested to help us deliver the most relevant information with your preferences</string>
+    <string name="txt_done">Done</string>
+
+</resources>

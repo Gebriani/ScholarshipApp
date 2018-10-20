@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">@color/blue</color>
+
+    <color name="blue">#5F9BE1</color>
+    <color name="cyan">#38C4CA</color>
+    <color name="semiWhite">#FBFBFB</color>
+    <color name="grey">#545454</color>
+    <color name="outlineCyan">#2E9DA1</color>
+
+    <color name="semiBlack">#313131</color>
+</resources>
