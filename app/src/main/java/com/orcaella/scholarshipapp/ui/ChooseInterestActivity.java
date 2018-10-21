@@ -86,6 +86,7 @@ public class ChooseInterestActivity extends BaseActivity implements View.OnClick
                     Toast.makeText(this, "Please pick 5 or more the category you are interested", Toast.LENGTH_SHORT).show();
                 } else {
                     HomeActivity.show(this, App.getInstance().getGson().toJson(adapter.getCatChoosed()));
+                    finish();
                 }
                 break;
         }
