@@ -31,6 +31,16 @@ public class CategoryModel {
     @SerializedName("image_url")
     private String image_url;
 
+    private boolean isChecked = false;
+
+    public boolean isChecked() {
+        return isChecked;
+    }
+
+    public void setChecked(boolean checked) {
+        isChecked = checked;
+    }
+
     public long getId() {
         return id;
     }
